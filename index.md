@@ -1,5 +1,5 @@
 <h2>简介</h2>
-<p><strong>Halo</strong> [ˈheɪloʊ]，意为光环。当然，你也可以当成拼音读(哈喽)。</p>
+<p><strong>一个涩图哥</strong> [ˈheɪloʊ]没什么光环，很儒雅随和的一个人</p>
 <p>轻快，简洁，功能强大，使用 Java 开发的博客系统。</p>
 <blockquote>
 <p><a href="https://bbs.halo.run" rel="nofollow">官方社区</a> | <a href="https://jq.qq.com/?_wv=1027&amp;k=5tnr930" rel="nofollow">QQ 交流群</a> | <a href="https://t.me/HaloBlog" rel="nofollow">Telegram 交流群</a> | <a href="https://t.me/halo_dev" rel="nofollow">Telegram 频道</a> | <a href="https://github.com/aquanlerou/WeHalo">WeHalo 小程序</a>。</p>
