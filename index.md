@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
 </head>
 <h1>涩图time!</h1>
 
@@ -13,6 +14,8 @@
 " rel="nofollow">点我添加QQ</a>&nbsp&nbsp; |  &nbsp&nbsp;<a href="https://mp.qzone.qq.com/u/51301105?uin=51301105&is_famous_space=1&brand_flag=0
 " rel="nofollow">访问QQ空间</a>&nbsp&nbsp; |&nbsp&nbsp; <a href="https://www.baidu.com">福利软件合集</a> &nbsp&nbsp;|&nbsp&nbsp; <a href="https://weibo.com/u/6101833251">关注我的微博</a></p><div>
 <body>
-<div align="center"></div>
+<div align="center">
+<img src="https://i.loli.net/2020/06/13/6ogCQ5mcYPIVBUX.jpg" />
+</div>
 </body>
 </html>
