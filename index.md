@@ -2,9 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
 </head>
 <h1>涩图time!</h1>
-
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5027380&auto=1&height=66"></iframe>
 
 <blockquote>
 <p><strong>一个儒雅随和的涩图哥，日常在我的QQ空间评论区ghs(搞黄色)，欢迎点击蓝色字体添加我的QQ。</strong></p>
@@ -14,7 +15,6 @@
 " rel="nofollow">访问QQ空间</a><br/><br><a href="https://www.baidu.com">福利软件合集</a> &nbsp&nbsp |&nbsp&nbsp; <a href="https://weibo.com/u/6101833251">关注我的微博</a></p><div>
 <body>
 <div align="center">
-  <p>测试图片</p>
 <img src="https://i.loli.net/2020/06/13/6ogCQ5mcYPIVBUX.jpg" />
 </div>
 </body>
