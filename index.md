@@ -8,7 +8,7 @@
 
 
 <blockquote>
-<p><strong>一个儒雅随和的涩图哥，日常在QQ空间评论区ghs(干好事)，欢迎添加我的QQ：51301105。</strong></p>
+<p><strong>一个儒雅随和的涩图哥，日常在QQ空间评论区ghs(干好事)，欢迎添加我的QQ，更新号：51301105<&nbsp>主号：6063021。</strong></p>
 <div align="center"<a href="https://sm.ms/image/PaZDhse3pEOTFX7" target="_blank"><img src="https://i.loli.net/2020/06/13/PaZDhse3pEOTFX7.gif" /></a></blockquote></div>
 <div align="center"><p><a href="https://qm.qq.com/cgi-bin/qm/qr?k=VHVfncJChRrSp_NGJrlJNgYpoaZ9ukMV
 " rel="nofollow">点我添加QQ</a>&nbsp&nbsp&nbsp | &nbsp&nbsp;<a href="https://mp.qzone.qq.com/u/51301105?uin=51301105&is_famous_space=1&brand_flag=0
